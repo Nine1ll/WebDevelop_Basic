@@ -1,0 +1,19 @@
+body {
+  margin: 50px;
+}
+
+img {
+  /* width와 height가 200이니까 지름이 200인원임 == radius가 100인 원 */
+  /* 이친구는 글씨가 없어서 : text-align: center; 이거 불가 */
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;  
+}
+
+#todays-challenge {
+  color: rgb(170, 96, 83);
+  font-weight: bold;
+  font-size: 52px;
+}
+
+
