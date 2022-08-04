@@ -4,12 +4,12 @@ UDemy_Web Develop BoothCamp
  - 02.07.2022 Sat - 
     - 앵커 태그 <a></a>
     Hyper link REFrece => href : 링크 걸기 (css 요소) 
-    <head> Metadata </head>
-    <body> Style data </body>
+    - <head> Metadata </head>
+    - <body> Style data </body>
     - 단축키
-    들여쓰기 ctrl + ] 
-    자동 서식 alt + shift + f
-    주석처리 ctrl + /
+     - 들여쓰기 ctrl + ] 
+     - 자동 서식 alt + shift + f
+     - 주석처리 ctrl + /
 
  - 04.07.2022 Mon
    - hover : 앵커 요소에 마우스를 갖다 댔을 때의 가상 선택자를 지정하는 규칙 == 마우스가 해당 요소 위에 있으면 hover에 정의된 스타일이 적용됨. 
