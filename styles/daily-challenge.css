@@ -1,5 +1,11 @@
-body {
-  margin: 50px;
+main{
+  width: 800px;
+  margin: 200px auto 72px auto;
+  background-color: rgb(219, 108, 94);
+  padding : 24px;
+  border: 5px solid rgb(44, 44 ,44);
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgb(0, 0, 0, 0.3);
 }
 
 img {
@@ -7,13 +13,27 @@ img {
   /* 이친구는 글씨가 없어서 : text-align: center; 이거 불가 */
   width: 200px;
   height: 200px;
-  border-radius: 100px;  
+  border-radius: 100px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  border: 5px solid rgb(44, 44, 44);
+  margin-top: -134px;
+}
+
+h1 {
+  font-size: 38px;
+  color: rgb(31, 25, 25);
+}
+
+a{
+  color: rgb(73, 29, 50);
+}
+
+span{
+  color: rgb(66, 2, 2);
 }
 
 #todays-challenge {
-  color: rgb(170, 96, 83);
+  color: rgb(75, 59, 59);
   font-weight: bold;
   font-size: 52px;
 }
-
-
